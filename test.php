@@ -1,5 +1,5 @@
 <?php
 
-print('this is a test update for demo purposes');
+print('this is a test update for demo purposes. Hello!');
 
 ?>
