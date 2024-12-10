@@ -1,1 +1,1 @@
-update targeting one site
+update targeting one site, the canary site.
